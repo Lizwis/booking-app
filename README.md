@@ -12,6 +12,7 @@
 - Install composer dependencies: `composer install`
 - Generate key: `php artisan key:generate`
 - Run migration: `php artisan migrate`
+- Install passport: `php artisan passport:install`
 
 
 ## Installation vue App
